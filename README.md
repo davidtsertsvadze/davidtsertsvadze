@@ -1,5 +1,5 @@
 # Hi, I'm David 👋  
-### Backend & Full-Stack Developer
+### Web Developer
 
 I am a developer focused on building structured, scalable and clean backend systems.  
 Passionate about OOP, system design and modern web technologies.
