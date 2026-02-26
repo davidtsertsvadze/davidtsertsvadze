@@ -8,9 +8,9 @@ Passionate about OOP, system design and modern web technologies.
 
 ## 👨‍💻 About Me
 
-- 🎯 Focused on Backend Development (.NET / Java)
+- 🎯 Focused on Backend Development (.NET , C#)
 - 💳 Building OOP-based systems with clean architecture principles
-- 🌐 Working with React + Vite and Django
+- 🌐 Working with React + Vite
 - 🛠 WordPress Developer (ACF, WPML, Elementor, custom logic)
 - 🚀 Always improving problem-solving and system design skills
 
@@ -20,18 +20,14 @@ Passionate about OOP, system design and modern web technologies.
 
 ### 💻 Languages
 - C#
-- Java
-- JavaScript
-- PHP
-- SQL
+- Java basics
+- JavaScript basics
 
 ### ⚙️ Frameworks & Technologies
 - .NET / ASP.NET Core
 - React + Vite
-- Django
-- WordPress (ACF, WPML)
+- WordPress
 - Tailwind CSS
-- MySQL
 - Git
 
 ---
@@ -50,30 +46,6 @@ Focus: clean architecture and extensibility.
 
 ---
 
-### 🌐 Microfinance Organization Website
-Full production website built with:
-- WordPress
-- Advanced Custom Fields (ACF)
-- WPML (multilingual support)
-- Custom PHP logic
-- Tailwind CSS
-
-Focus: dynamic content structure, reusable components, performance.
-
----
-
-### 🛍 Full-Stack Django + React Application
-Backend: Django / Django REST  
-Frontend: React + Vite  
-
-Features:
-- API integration
-- Authentication
-- Structured backend logic
-- Modern frontend architecture
-
----
-
 ## 📊 GitHub Stats
 
 
@@ -83,16 +55,15 @@ Features:
 
 - Improving backend architecture skills
 - Writing cleaner, more maintainable code
-- Deepening knowledge of .NET & Java
+- Deepening knowledge of .NET
 - Learning system design fundamentals
 
 ---
 
 ## 📫 Contact
 
-- Email: your@email.com
-- LinkedIn: https://linkedin.com/in/yourprofile
-
+- Email: davititsertsvadze872@gmail.com
+- LinkedIn: https://www.linkedin.com/in/david-tsertsvadze-052b082b2/
 ---
 
 ### 💡 Philosophy
