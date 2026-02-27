@@ -67,11 +67,6 @@ Focus: clean architecture and extensibility.
 
 ---
 
-## 📊 GitHub Stats
-
-
----
-
 ## 🎯 Current Focus
 
 - Improving backend architecture skills
