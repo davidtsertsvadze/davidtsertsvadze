@@ -1,13 +1,4 @@
-<!-- HEADER BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=200&section=header&text=David%20Tsertsvadze&fontSize=40&fontColor=ffffff" />
-</p>
 
-<h2 align="center">🚀 Web Developer</h2>
-
-<p align="center">
-  <b>.NET • C# • React • Java • WordPress</b>
-</p>
 
 ---
 
