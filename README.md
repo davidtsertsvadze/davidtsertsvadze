@@ -6,7 +6,7 @@
 <h2 align="center">🚀 Backend & Full-Stack Developer</h2>
 
 <p align="center">
-  <b>.NET • Java • React • Django • WordPress</b>
+  <b>.NET • C# • React • Java • WordPress</b>
 </p>
 
 ---
