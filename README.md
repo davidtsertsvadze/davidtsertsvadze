@@ -1,3 +1,24 @@
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=200&section=header&text=David%20Tsertsvadze&fontSize=40&fontColor=ffffff" />
+</p>
+
+<h2 align="center">🚀 Backend & Full-Stack Developer</h2>
+
+<p align="center">
+  <b>.NET • Java • React • Django • WordPress</b>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+```diff
++ Backend-focused developer
++ Strong OOP & Clean Architecture mindset
++ Building scalable systems
++ Passionate about learning & improving daily
+
 # Hi, I'm David 👋  
 ### Web Developer
 
