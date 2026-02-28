@@ -37,8 +37,6 @@ Passionate about OOP, system design and modern web technologies.
 
 ---
 
-## 🛠 Tech Stack
-
 ### 💻 Languages
 - C#
 - Java basics
