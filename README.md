@@ -10,8 +10,6 @@
 </p>
 
 ---
-
-## 👨‍💻 About Me
 Hi, I'm David 👋
 Full-Stack Web Developer
 
