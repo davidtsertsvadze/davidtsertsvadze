@@ -12,67 +12,34 @@
 ---
 
 ## 👨‍💻 About Me
+Hi, I'm David 👋
+Full-Stack Web Developer
 
-```diff
-+ Backend-focused developer
-+ Strong OOP & Clean Architecture mindset
-+ Building scalable systems
-+ Passionate about learning & improving daily
+Backend-focused developer with strong OOP & Clean Architecture mindset.
+Building scalable systems with .NET and modern web apps with React.
 
-# Hi, I'm David 👋  
-### Web Developer
+👨‍💻 About Me
+Backend: .NET / C# (Clean Architecture, OOP)
+Frontend: React + Vite
+WordPress (ACF, WPML, Elementor)
+Focused on scalable, maintainable systems
+⚙️ Tech Stack
 
-I am a developer focused on building structured, scalable and clean backend systems.  
-Passionate about OOP, system design and modern web technologies.
+Languages:
+C#, JavaScript
 
----
+Technologies:
+.NET / ASP.NET Core, React, WordPress, Tailwind, Git
 
-## 👨‍💻 About Me
+🚀 Project
 
-- 🎯 Focused on Backend Development (.NET , C#)
-- 💳 Building OOP-based systems with clean architecture principles
-- 🌐 Working with React + Vite
-- 🛠 WordPress Developer (ACF, WPML, Elementor, custom logic)
-- 🚀 Always improving problem-solving and system design skills
+Payment System Simulation (C#)
+OOP-based system with clean architecture (interfaces, abstraction, extensible design)
 
----
-
-### 💻 Languages
-- C#
-- Java basics
-- JavaScript basics
-
-### ⚙️ Frameworks & Technologies
-- .NET / ASP.NET Core
-- React + Vite
-- WordPress
-- Tailwind CSS
-- Git
-
----
-
-## 🚀 Featured Projects
-
-### 💳 Payment System Simulation (C#)
-OOP-based payment system using:
-- Interfaces
-- Abstraction
-- Records & Enums
-- Clean object-oriented structure
-
-Simulates different payment processors (Card, Cash, Crypto)  
-Focus: clean architecture and extensibility.
-
----
-
-## 🎯 Current Focus
-
-- Improving backend architecture skills
-- Writing cleaner, more maintainable code
-- Deepening knowledge of .NET
-- Learning system design fundamentals
-
----
+🎯 Focus
+Backend architecture
+Clean code
+System design
 
 ## 📫 Contact
 
