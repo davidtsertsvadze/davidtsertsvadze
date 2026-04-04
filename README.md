@@ -10,39 +10,53 @@
 </p>
 
 ---
-Hi, I'm David 👋
-Full-Stack Web Developer
+# Hi, I'm David 👋  
+### Full-Stack Web Developer
 
-Backend-focused developer with strong OOP & Clean Architecture mindset.
+Backend-focused developer with strong OOP & Clean Architecture mindset.  
 Building scalable systems with .NET and modern web apps with React.
 
-👨‍💻 About Me
-Backend: .NET / C# (Clean Architecture, OOP)
-Frontend: React + Vite
-WordPress (ACF, WPML, Elementor)
-Focused on scalable, maintainable systems
-⚙️ Tech Stack
+---
 
-Languages:
-C#, JavaScript
+## 👨‍💻 About Me
 
-Technologies:
-.NET / ASP.NET Core, React, WordPress, Tailwind, Git
+- Backend: .NET / C# (Clean Architecture, OOP)
+- Frontend: React + Vite
+- WordPress (ACF, WPML, Elementor)
+- Focused on scalable, maintainable systems
 
-🚀 Project
+---
 
-Payment System Simulation (C#)
-OOP-based system with clean architecture (interfaces, abstraction, extensible design)
+## ⚙️ Tech Stack
 
-🎯 Focus
-Backend architecture
-Clean code
-System design
+**Languages:**  
+C#, JavaScript  
+
+**Technologies:**  
+.NET / ASP.NET Core, React, WordPress, Tailwind CSS, Git  
+
+---
+
+## 🚀 Project
+
+**Payment System Simulation (C#)**  
+OOP-based system using interfaces, abstraction and extensible design.
+
+---
+
+## 🎯 Focus
+
+- Backend architecture  
+- Clean code  
+- System design  
+
+---
 
 ## 📫 Contact
 
-- Email: davititsertsvadze872@gmail.com
+- Email: davititsertsvadze872@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/david-tsertsvadze-052b082b2/
+
 ---
 
 ### 💡 Philosophy
