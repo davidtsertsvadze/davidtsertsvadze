@@ -33,7 +33,7 @@ Building scalable systems with .NET and modern web apps with React.
 C#, JavaScript  
 
 **Technologies:**  
-.NET / ASP.NET Core, React, WordPress, Tailwind CSS, Git  
+.NET / ASP.NET Core, React, WordPress, HTML5, Tailwind CSS, JavaScript (ES6+), Git  
 
 ---
 
